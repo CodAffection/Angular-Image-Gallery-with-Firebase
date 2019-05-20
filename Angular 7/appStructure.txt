@@ -1,0 +1,16 @@
+● src
++---● app
+|   +--● images
+|   |  |--images.component.ts|.html
+|   |  +--● image
+|   |  |  |--image.component.ts|.html
+|   |  +--● image-list
+|   |     |--image-list.component.ts|.html
+|   |  
+|   +--● shared
+|   |  |--image.service.ts
+|   |  
+|   |--app.module.ts (firebase config.)
+|   |--app-routing.module.ts (route config.)
+|
+|--index.html (cdn path for bootstrap)
